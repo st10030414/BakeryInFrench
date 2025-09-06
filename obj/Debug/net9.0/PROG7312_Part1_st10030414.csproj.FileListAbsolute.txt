@@ -7,7 +7,6 @@
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/bin/Debug/net9.0/PROG7312_Part1_st10030414.runtimeconfig.json
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/bin/Debug/net9.0/PROG7312_Part1_st10030414.dll
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/bin/Debug/net9.0/PROG7312_Part1_st10030414.pdb
-/home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/rpswa.dswa.cache.json
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/PROG7312_Part1_st10030414.GeneratedMSBuildEditorConfig.editorconfig
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/PROG7312_Part1_st10030414.AssemblyInfoInputs.cache
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/PROG7312_Part1_st10030414.AssemblyInfo.cs
@@ -15,9 +14,6 @@
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/PROG7312_Part1_st10030414.MvcApplicationPartsAssemblyInfo.cache
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/PROG7312_Part1_st10030414.RazorAssemblyInfo.cache
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/PROG7312_Part1_st10030414.RazorAssemblyInfo.cs
-/home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/rjimswa.dswa.cache.json
-/home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
-/home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/scopedcss/bundle/PROG7312_Part1_st10030414.styles.css
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/scopedcss/projectbundle/PROG7312_Part1_st10030414.bundle.scp.css
@@ -85,7 +81,6 @@
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/compressed/h4mv6bitme-ryh82mrvz3.gz
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/compressed/o8vzjay8zm-ryh82mrvz3.gz
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/staticwebassets.build.json
-/home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/staticwebassets.build.json.cache
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/staticwebassets.development.json
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/staticwebassets.build.endpoints.json
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/PROG7312_Part1_st10030414.dll
@@ -142,3 +137,9 @@
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/PROG7312_Part1_st10030414.sourcelink.json
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/compressed/wgtfa0wbdn-76ajv8e9fd.gz
 /home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/compressed/gvyvrbmy2r-jc2ghln3ab.gz
+/home/poke/RiderProjects/PROG7312_Part1_st10030414/bin/Debug/net9.0/package-lock.json
+/home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/rpswa.dswa.cache.json
+/home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/Debug/net9.0/staticwebassets.build.json.cache

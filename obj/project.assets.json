@@ -1271,11 +1271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/poke/RiderProjects/PROG7312_Part1_st10030414/PROG7312_Part1_st10030414.csproj",
+      "projectUniqueName": "/home/poke/Documents/propes/PROG7312_Part1_st10030414.csproj",
       "projectName": "PROG7312_Part1_st10030414",
-      "projectPath": "/home/poke/RiderProjects/PROG7312_Part1_st10030414/PROG7312_Part1_st10030414.csproj",
+      "projectPath": "/home/poke/Documents/propes/PROG7312_Part1_st10030414.csproj",
       "packagesPath": "/home/poke/.nuget/packages/",
-      "outputPath": "/home/poke/RiderProjects/PROG7312_Part1_st10030414/obj/",
+      "outputPath": "/home/poke/Documents/propes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/poke/.nuget/NuGet/NuGet.Config"
@@ -1302,7 +1302,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -1342,7 +1342,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/poke/.dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
