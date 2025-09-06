@@ -1,5 +1,11 @@
 using Microsoft.EntityFrameworkCore;
 using PROG7312_Part1_st10030414.Data;
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<YourDbContext>();
+    db.Database.Migrate(); // Applies any pending migrations
+}
+
 
 var builder = WebApplication.CreateBuilder(args);
 
